@@ -1,0 +1,35 @@
+/*Base Style*****************
+*******************************/
+.container {
+    background: orange;
+    padding: 20px;
+    height: 500px;
+}
+
+/*IMAGES********************
+****************************/
+
+img {
+    cursor: pointer;
+}
+
+  .sushi-box {
+    height: 200px;
+    }
+
+
+/*Onclick Img positioning*************
+******************************/
+.grow {
+    width: 400px;
+    height: 400px;
+
+}
+
+#sushi-box-2 {
+    float: right;
+}
+
+#sushi-box-1 {
+    float: left;
+}
