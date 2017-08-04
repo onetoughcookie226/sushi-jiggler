@@ -5,6 +5,6 @@
 //Onclick angry_maki, console log
 
 var makiObject= document.getElementById("sushi-box-1");
-makiObject.onhover = function () {
+    makiObject.onclick = function () {
     console.log("HEllo!");
 }
